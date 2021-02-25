@@ -1,2 +1,2 @@
 # hello-world
-# Mein Name ist Yajie. Ich come aus China.
+# Mein Name ist Yajie. Ich komme aus China.
